@@ -1,4 +1,4 @@
-### <u> Welcome </u>
+### Welcome
 This repository contains code and raw data for the manuscript: Serial passage of the human probiotic *E. coli* Nissle in an insect host leads to changed bacterial phenotypes, Schröder &amp; Korsa et al. 2020
 
 **Note: GitHub itself does not support a rendered view of the analysis_manuscript_data.html file.**
